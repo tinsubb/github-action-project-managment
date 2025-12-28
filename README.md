@@ -1,1 +1,1 @@
-# Git action and project managment
+# Git action and project managment and close an issue
