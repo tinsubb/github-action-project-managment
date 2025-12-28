@@ -1,1 +1,1 @@
-# Git action and project managment assignment
+# Git action and project managment assignment automation test
